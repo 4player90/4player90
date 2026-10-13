@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: subzero API
+  structure:
+    - type: space
+      key: space-1
+      title: subzero API
+      path: subzero-api
+      default: true
+      content:
+        directory: ./subzero-api
